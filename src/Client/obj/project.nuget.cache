@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "SFwBlC8qDHX0qkq4hnLPBoh2vK9cUxA1HcssCxjHXAoeojDJC4VmLSfZZL8lmlb5l5IKOm/HvYmXOlLGPU+Leg==",
+  "success": true,
+  "projectFilePath": "/Users/jonah/Desktop/IdentityServer/src/Client/Client.csproj",
+  "expectedPackageFiles": [
+    "/Users/jonah/.nuget/packages/identitymodel/5.0.1/identitymodel.5.0.1.nupkg.sha512",
+    "/Users/jonah/.nuget/packages/system.text.encodings.web/5.0.0/system.text.encodings.web.5.0.0.nupkg.sha512",
+    "/Users/jonah/.nuget/packages/system.text.json/5.0.0/system.text.json.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
